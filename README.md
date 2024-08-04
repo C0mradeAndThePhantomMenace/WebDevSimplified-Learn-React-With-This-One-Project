@@ -29,9 +29,11 @@ https://animated-cod-wr9xwgvp9w75c6wq.github.dev/
 ### npm create
 
 ````
-npm create vite@latest app-one -- --template react
+npm create vite@latest WebDevSimplified-React-Todo-List-App -- --template react -y
 
-cd app-one
+cd WebDevSimplified-React-Todo-List-App && npm i && npm run dev
+
+cd WebDevSimplified-React-Todo-List-App
 npm i
 npm run dev
 ```
