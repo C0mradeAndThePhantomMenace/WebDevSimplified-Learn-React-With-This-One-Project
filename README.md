@@ -28,7 +28,7 @@ https://animated-cod-wr9xwgvp9w75c6wq.github.dev/
 
 ### npm create
 
-````
+```
 npm create vite@latest WebDevSimplified-React-Todo-List-App -- --template react -y
 
 cd WebDevSimplified-React-Todo-List-App && npm i && npm run dev
@@ -37,3 +37,5 @@ cd WebDevSimplified-React-Todo-List-App
 npm i
 npm run dev
 ```
+
+### Clean Up Code
