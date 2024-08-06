@@ -12,7 +12,13 @@ https://www.youtube.com/watch?v=Rh3tobg7hEo
 
 https://github.com/C0mradeAndThePhantomMenace/WorkSpacesAndNotes/blob/main/U-Y-React.js/(%40WebDevSimplified)-(Learn%20React%20With%20This%20One%20Project)/(%40WebDevSimplified)-Learn-React-With-This-One-Project.md
 
-**GitHub - Repo**
+**GitHub - Repo - WebDevSimplified/react-todo-list**
+
+https://github.com/WebDevSimplified/react-todo-list
+
+https://raw.githubusercontent.com/WebDevSimplified/react-todo-list/main/src/styles.css
+
+**GitHub - Repo - I/WebDevSimplified-Learn-React-With-This-One-Project**
 
 https://github.com/C0mradeAndThePhantomMenace/WebDevSimplified-Learn-React-With-This-One-Project
 
